@@ -5,8 +5,6 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassificacaoCredito", "ClassificacaoCredito\ClassificacaoCredito.csproj", "{B23783ED-9193-44AE-9DBD-C462F021A4B1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassificacaoDiagnostico", "ClassificacaoDiagnostico\ClassificacaoDiagnostico.csproj", "{6A039928-1E3B-4DDE-B7F0-7F9FC2215AF9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassificacaoNoticia", "ClassificacaoNoticia\ClassificacaoNoticia.csproj", "{B36BAEE6-5AF0-423F-A715-D645C8B4541E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredicaoCasa", "PredicaoCasa\PredicaoCasa.csproj", "{0C0630C6-5D5F-42C7-8213-D1F4853717F4}"
@@ -25,10 +23,6 @@ Global
 		{B23783ED-9193-44AE-9DBD-C462F021A4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B23783ED-9193-44AE-9DBD-C462F021A4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B23783ED-9193-44AE-9DBD-C462F021A4B1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6A039928-1E3B-4DDE-B7F0-7F9FC2215AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A039928-1E3B-4DDE-B7F0-7F9FC2215AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A039928-1E3B-4DDE-B7F0-7F9FC2215AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A039928-1E3B-4DDE-B7F0-7F9FC2215AF9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B36BAEE6-5AF0-423F-A715-D645C8B4541E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B36BAEE6-5AF0-423F-A715-D645C8B4541E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B36BAEE6-5AF0-423F-A715-D645C8B4541E}.Release|Any CPU.ActiveCfg = Release|Any CPU
