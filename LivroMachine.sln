@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegressaoLinear", "Regressa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegressaoLogistica", "RegressaoLogistica\RegressaoLogistica.csproj", "{7C3399ED-0077-44AE-B933-39CEC42DBA5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clustering", "Clustering\Clustering.csproj", "{D05EE23B-9F17-4652-9ED3-17369BB86D74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7C3399ED-0077-44AE-B933-39CEC42DBA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C3399ED-0077-44AE-B933-39CEC42DBA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C3399ED-0077-44AE-B933-39CEC42DBA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05EE23B-9F17-4652-9ED3-17369BB86D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05EE23B-9F17-4652-9ED3-17369BB86D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05EE23B-9F17-4652-9ED3-17369BB86D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05EE23B-9F17-4652-9ED3-17369BB86D74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
